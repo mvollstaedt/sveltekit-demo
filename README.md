@@ -3,7 +3,7 @@
 I created this demo app in order to get a practical understanding of how Svelte and SvelteKit work. In addition to these technologies I've used the following along the way:
 
 - Package manager: PNPM
-- Module bundler: Vite
+- Module bundler/build tool: Vite
 - Programming language: Typescript
 - Type validator: ZOD
 
